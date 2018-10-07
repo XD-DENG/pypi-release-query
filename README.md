@@ -1,6 +1,6 @@
 # Query for the Latest Release of Python Packages
 
-This mini project is to provide a tool to query for the latest release of Python packages.
+This mini project is to provide a tool to query for the latest release of Python packages (API reference: https://wiki.python.org/moin/PyPIJSON).
 
 It may be helpful when your project is broken due to some dependency update breaks backward
 compatibility or conflicts with other packages in you dependencies.
